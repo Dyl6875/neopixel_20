@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5",
+        "bitmaker": "github:TinkerGen/pxt-BitMaker#v0.1.4"
     },
     "files": [
         "main.blocks",
